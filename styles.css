@@ -1,0 +1,74 @@
+* {
+    background-color: black;
+    color: #ffaec9;
+
+}
+
+.nav-link {
+    background-color: #99d9ea;
+    color: #ffaec9;
+    font-family: Tahoma;
+    font-size: 1.5em;
+    text-shadow: 1px 1px black;
+
+}
+
+a {
+    color: #99d9ea;
+}
+
+.nav {
+    background-color: #99d9ea;
+    border-style: solid;
+    border-width: medium;
+    border-color: #ffaec9;
+
+}
+
+.fullSizeImages {
+    width: 100%;
+}
+
+#mainText {
+    text-align: center;
+    color: #ffaec9;
+}
+
+.accordion-header {
+    border-style: solid;
+    border-width: medium;
+    border-color: #ffaec9;
+}
+
+.accordion-button {
+    background-color: #99d9ea;
+}
+
+form {
+    padding-top: 20px;
+
+}
+
+input {
+    background-color: white;
+    color: black;
+}
+
+textarea {
+    background-color: white;
+    color: black;
+}
+
+#submit {
+    background-Color: #99d9ea;
+    color: #ffaec9;
+    text-shadow: 1px 1px black;
+}
+
+h1 {
+    padding-top: 20px;
+}
+
+#carousel-container {
+    padding-top: 20px;
+}
